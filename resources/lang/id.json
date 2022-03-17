@@ -1,0 +1,19 @@
+{
+    "Register": "Daftar",
+    "Login": "Masuk",
+    "Logout": "Keluar",
+    "Name": "Nama",
+    "E-Mail Address": "E-Mail",
+    "Confirm Password": "Konfirmasi Password",
+    "Remember Me": "Ingat Saya",
+    "Forgot Your Password?": "Lupa Password?",
+    "Hello!": "Halo!",
+    "Reset Password Notification": "Notifikasi Reset Password",
+    "You are receiving this email because we received a password reset request for your account.": "Anda menerima email ini karena kami menerima permintaan reset password untuk akun Anda.",
+    "This password reset link will expire in :count minutes.": "Link reset password ini akan kadaluarsa dalam :count menit.",
+    "If you did not request a password reset, no further action is required.": "Jika Anda tidak meminta reset password, maka abaikan email ini.",
+    "Regards": "Hormat Kami",
+    "Your password has been reset!": "Password Anda telah direset!",
+    "You are logged in!": "Anda telah masuk!",
+    "Send Password Reset Link": "Kirim Link Reset Password"
+}
