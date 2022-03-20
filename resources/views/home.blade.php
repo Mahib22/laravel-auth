@@ -16,6 +16,10 @@
 
                         <h4>Hi, {{ Auth::user()->username }}</h4>
                         {{ __('You are logged in!') }}
+
+                        @if (Auth::user()->is_admin)
+                            <p>Tulisan ini hanya bisa dilihat oleh admin</p>
+                        @endif
                     </div>
                 </div>
             </div>

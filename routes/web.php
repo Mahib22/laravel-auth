@@ -23,3 +23,7 @@ Auth::routes([
 ]);
 
 Route::get('/home', 'HomeController@index')->name('home')->middleware('verified');
+
+Route::get('/admin', function () {
+    return "Ini adalah halaman admin";
+})->middleware('admin');
